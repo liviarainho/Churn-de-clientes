@@ -9,10 +9,10 @@ Muitos clientes migram entre operadoras de telecomunicações devido a fatores d
 Uma empresa de telecomunicações está preocupada com o número de clientes que trocam seus negócios de telefonia fixa por concorrentes a cabo. Eles precisam entender quem está saindo. Imagine que você é um analista dessa empresa e precisa descobrir quem está saindo e por quê.
 
 ## O que foi feito: 
- -  Estudar cada feature para a melhor compreensão dos resultados
- -  Análise exploratória dos dados
- -  Caso exista, substituir cada item faltantes por um valor apropriado
- -  Fazer o particionamento dos dados em treinamento (80%) e teste (20%)
- -  Substituir os dados categóricos em texto para numéricos
- -  Treinar e validar uma árvore de decisão e avaliar a precisão do modelo
- -  Mostrar a matriz de confusão para o modelo
+-  Estudar cada feature para a melhor compreensão dos resultados
+-  Análise exploratória dos dados
+-  Caso exista, substituir cada item faltantes por um valor apropriado
+-  Fazer o particionamento dos dados em treinamento (80%) e teste (20%)
+-  Substituir os dados categóricos em texto para numéricos
+-  Treinar e validar uma árvore de decisão e avaliar a precisão do modelo
+-  Mostrar a matriz de confusão para o modelo
