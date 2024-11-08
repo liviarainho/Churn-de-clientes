@@ -10,9 +10,9 @@ Uma empresa de telecomunicações está preocupada com o número de clientes que
 
 ## O que foi feito: 
  -    Estudar cada feature para a melhor compreensão dos resultados
-•     Faça uma análise exploratória dos dados
-•     Caso exista, substituir cada item faltantes por um valor apropriado
-•     Fazer o particionamento dos dados em treinamento (80%) e teste (20%)
-•     Substituir os dados categóricos em texto para numéricos
-•     Treinar e validar uma árvore de decisão e avaliar a precisão do modelo
-•     Mostrar a matriz de confusão para o modelo
+ -    Análise exploratória dos dados
+ -    Caso exista, substituir cada item faltantes por um valor apropriado
+ -    Fazer o particionamento dos dados em treinamento (80%) e teste (20%)
+ -    Substituir os dados categóricos em texto para numéricos
+ -    Treinar e validar uma árvore de decisão e avaliar a precisão do modelo
+ -    Mostrar a matriz de confusão para o modelo
